@@ -38,7 +38,7 @@ app.listen(port, () => {
 });
 
 const statusMessages = ["⚙️Managing BotForge"];
-const statusTypes = [ 'idle', 'idle'];
+const statusTypes = [ 'online', 'online'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
 
